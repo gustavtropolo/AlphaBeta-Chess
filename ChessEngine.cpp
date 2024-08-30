@@ -1044,6 +1044,7 @@ int main() {
       play.gameLog.push_back(col);
       play.gameLog.push_back(toRow);
       play.gameLog.push_back(toCol);
+      //test
       isPlayerMove = false;
     }else{
       std::cout << "Illegal move, try again." << std::endl;
